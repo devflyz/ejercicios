@@ -25,11 +25,11 @@ La nota media
 ```
 7.5
 ```
-Ejemplo del Input 3
+### Ejemplo del Input 3
 ```
 6.75 7.25 8.4
 ```
-Resultado del Output 3
+### Resultado del Output 3
 ```
 7.4666667
 ```
