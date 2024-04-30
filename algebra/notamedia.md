@@ -9,27 +9,27 @@ Dadas las notas de 3 exámenes, calcula su media.
 ## Output Format
 La nota media
 ## Ejemplos
-### Ejemplo del Input 1
+### Sample Input 1
 ```
 0 5 10
 ```
-### Resultado del Output 1
+### Sample Output 1
 ```
 5.0
 ```
-### Ejemplo del Input 2
+### Sample Input 2
 ```
 5 7.5 10
 ```
-### Resultado del Output 2
+### Sample Output 2
 ```
 7.5
 ```
-### Ejemplo del Input 3
+### Sample Input 3
 ```
 6.75 7.25 8.4
 ```
-### Resultado del Output 3
+### Sample Output 3
 ```
 7.4666667
 ```
