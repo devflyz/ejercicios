@@ -8,7 +8,7 @@ Dadas las notas de 3 exámenes, calcula su media.
 -
 ## Output Format
 La nota media
-## Ejemplo
+## Ejemplos
 ### Ejemplo del Input 1
 ```
 0 5 10
