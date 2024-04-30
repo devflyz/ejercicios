@@ -1,12 +1,12 @@
 # Nota media
 Dadas las notas de 3 exámenes, calcula su media.
-## Formato de entrada
+## Input Format
 - El primer número `N1` es la nota del primer examen.
 - El segundo número `N2` es la nota del segundo examen.
 - El tercer número `N3` es la nota del tercer examen.
 ## Restricciones
 -
-## Formato de salida
+## Output Format
 La nota media
 ## Ejemplo
 ### Ejemplo del Input 1
